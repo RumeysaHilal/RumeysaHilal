@@ -1,6 +1,6 @@
 # Hi there,I'm Rümeysa Hilal Sevinç 👋 
 
-I'm student at Bursa Uludag University. I'm interested in data science and python. I have worked with different programming languages before as an example C++,C and Java. But these languages not what i wanted. I met python in second grade an it's what i searched. It's very comfortable, easy to learn, has lots of field and resource.
+I graduated from Uludağ University, Computer Engineering. I'm interested in data science and python. I have worked with different programming languages before as an example C++,C and Java. But these languages not what i wanted. I met python in second grade an it's what i searched. It's very comfortable, easy to learn, has lots of field and resource.
 
 
 - 🔭 I’m currently working on programming
